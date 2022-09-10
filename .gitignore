@@ -1,0 +1,5 @@
+*.dll
+api/EventSchedulerAPI/bin/**
+api/EventSchedulerAPI/obj/**
+api/EventSchedulerAPI/EventSchedulerAPI.csproj.user
+api/EventSchedulerAPI/.vs/EventSchedulerAPI/v17/.suo
